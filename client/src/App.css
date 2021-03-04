@@ -1,0 +1,12 @@
+.form{
+    height: 100vh;
+}
+
+.tab-container{
+    width: 250px;
+}
+
+.convo{
+    height: 75px;
+    resize: none;
+}
